@@ -19,6 +19,14 @@ export ZSH="/Users/michaelgaras/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+
+# Git alises and functions
+
+gpall() 
+{
+	git add .i && git commit -m $1 && git push
+}	
+
 ZSH_THEME="agnoster"
 
 # Set list of themes to pick from when loading at random
