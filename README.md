@@ -7,7 +7,7 @@
 3. relaunch iTerm2
 4. VOILA!!
 
-## zsh Congiguration
+## zsh Configuration
 
 1. download iTerm2 from https://iterm2.com/downloads/stable/iTerm2-3_3_3.zip
 2. `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
