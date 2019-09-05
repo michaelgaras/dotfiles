@@ -1,4 +1,4 @@
-# Michael's Dotfile Configurations for VIM and ZSH
+# Michael's dotfiles Configurations for VIM and ZSH
 
 ## Vim Configuration
 
